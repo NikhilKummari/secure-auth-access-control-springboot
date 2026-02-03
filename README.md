@@ -30,4 +30,4 @@ resources, similar to real-world enterprise applications.
 ### Setup
 1. Create database:
    ```sql
-   CREATE DATABASE secure_auth;
+   CREATE DATABASE <db_name>;
