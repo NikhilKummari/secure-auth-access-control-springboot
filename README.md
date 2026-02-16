@@ -20,14 +20,3 @@ resources, similar to real-world enterprise applications.
 
 ---
 
-## ▶️ How to Run the Project
-
-### Prerequisites
-- Java 17+
-- Maven
-- MySQL
-
-### Setup
-1. Create database:
-   ```sql
-   CREATE DATABASE <db_name>;
